@@ -1,1 +1,1 @@
-# pytorch_chan
+# Pytorch Tutorial Samuel Chag
